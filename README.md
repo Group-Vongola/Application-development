@@ -4,13 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A food ordering and delivering application
 
-A few resources to get you started if this is your first Flutter project:
+The main idea of developing this application is to study a real application development and the technique to organize the works properly within a limited time frame. The main users of this application are business owner, customers, and delivery men.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+open source framework: Flutter (https://docs.flutter.dev/get-started/install/windows/mobile)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+online database: Firebase (https://firebase.google.com/docs/flutter/setup?platform=ios)
+
+Screenshot of final results
+
+![image](https://github.com/Group-Vongola/Application-development/assets/147313139/9e4df8af-a0c4-4016-9498-37c02bcbb003)
